@@ -1,2 +1,2 @@
 # Scraper00
-Standard scraper
+Standard scraper using beautifulsoup4, requests and pandas
